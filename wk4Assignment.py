@@ -1,5 +1,5 @@
-# File Read & Write Challenge 🖋️
-# Error Handling Lab 🧪
+# File Read & Write Challenge 
+# Error Handling Lab 
 
 def read_and_modify_file():
     try:
